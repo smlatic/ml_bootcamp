@@ -1,0 +1,4 @@
+
+**Create Env.
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+**Install jupyter
